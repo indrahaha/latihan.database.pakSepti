@@ -1,0 +1,40 @@
+
+
+
+
+
+
+PEMETAAN DATABASE
+
+-SQL: Structure Query Language
+	-dibaca sequel
+	- structure: struktur/susunan
+	- query : kata dasar -> question(tunggal); jamak -> query
+	- language : bahasa percakapan
+	- bahasa percakapan dalam bentuk  pertanyaan yang terstruktur
+
+- SQL secara umum dibagi :
+	- ddl data definition languange:
+		- membentuk structur sebuah database.
+		- sintak diawali dengan alter , create , drop , rename , show.
+		- objek database : database, table, (view , procedure , function, trigger) *optional
+
+	- dml data manipulation language
+		- berfungsi : bagaimana penyimpanan dan mengoperasikan data.
+		- sintak : insert, update , delete, dan select
+
+	- dcl data control language
+		- mengkombinasikan perintah diatas (DDL,DML)
+		- menggambungkan perintah internal: operator logika.
+		- sintak : grant , revoke
+	- model :
+		- ERD: Entity relationship diagram
+			- NORMALIZATION : 1NF, 2NF, 3NF, BCNF, 4NFM 5NF    
+				1=First
+				N=normal
+				F=Form
+			- 
+		- DFD: data flow diagram
+
+	- excel vs mysql
+		-map
